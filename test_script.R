@@ -2,4 +2,4 @@
 
 # My favorite food is spaghetti 
 
-# My favorite animal is a sea otter
+# My favorite animal is a lion
